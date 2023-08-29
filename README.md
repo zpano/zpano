@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there  👋 I'm Zpano<img align="right" src="https://github-readme-stats.vercel.app/api?username=zpano&show_icons=true&theme=radical">
 
-<!--
-**zpano/zpano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![GitHub followers](https://img.shields.io/github/followers/zpano?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/zpano?style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| :one: `:one:` | :two: `:two:` | :three: `:three:` |
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zpano&layout=compact&hide=javascript,html,CSS)](https://github.com/zpano)
+
+
+[![Top Langs](https://profile-counter.glitch.me/zpano/count.svg)](https://github.com/zpano)
+
