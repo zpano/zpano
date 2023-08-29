@@ -5,7 +5,7 @@
 
 :ship: [Syclover](https://www.sycsec.com/)  
 :negative_squared_cross_mark: A blockchain security research  
-:white_check_mark: laborer
+:white_check_mark: laborer  
 :dart: Become a positive , indenpence and optimistic individual.
 
 
