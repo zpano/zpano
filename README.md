@@ -4,7 +4,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/zpano?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/zpano?style=social)
 
 :ship: [Syclover](https://www.sycsec.com/)  
-:x: A blockchain security research
+:negative_squared_cross_mark: A blockchain security research  
+:white_check_mark: laborer
+:dart: Become a positive , indenpence and optimistic individual.
 
 
 
