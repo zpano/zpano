@@ -6,8 +6,9 @@
 :ship: [Syclover](https://www.sycsec.com/)  
 :negative_squared_cross_mark: A blockchain security researcher  
 :white_check_mark: laborer  
-:dart: Become a positive,independent and optimistic individual
+:dart: Become a positive,independent and optimistic individual  
 
+   
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zpano&layout=compact&hide=javascript,html,CSS)](https://github.com/zpano)
